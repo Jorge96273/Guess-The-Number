@@ -1,5 +1,4 @@
 import random
-from two import logo
 
 num_of_trys = 0
 RANDOM_NUM = random.choice(range(2, 100))
